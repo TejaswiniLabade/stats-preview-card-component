@@ -106,7 +106,6 @@ body {
     flex-direction: column-reverse;
     justify-content: space-between;
     width: 90vw;
-    height: 90vh;
   }
 
   .card .info {
